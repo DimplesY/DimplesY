@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=2890841438&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Hi there 👋
+### 你好 👋
 
 <!--
 **2890841438/2890841438** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :orange_book: Focus on new technologies
-- ✍️ [MyBlog](https://dimples.top)
+- 我的中文名叫小杰, English name is Dimples。
