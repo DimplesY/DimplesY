@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :orange_book: Focusing on Java & Python
+- :orange_book: Focusing on JavaScript & Java & Python
 - ✍️ [MyBlog](https://dimples.top)
