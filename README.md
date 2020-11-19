@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :orange_book: Focus on new technologies
-- 我的中文名叫小杰, English name is Dimples。
+Focus on new technologies
+
+我的中文名叫小杰，English name is Dimples。
