@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Focus on new technologies
-
-我的中文名叫小杰，English name is Dimples。
