@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Focus on new technologies
+
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" />
+</div>
