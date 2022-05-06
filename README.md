@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Focus on new technologies
+<p align="center">
+  <samp>
+    <a href="https://dimples.top/pages/da474d/">me</a> .
+    <a href="https://dimples.top/archives/">blog</a> .
+  </samp>
+</p>
 
 
