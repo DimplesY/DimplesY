@@ -1,5 +1,6 @@
 ### 你好 👋
 
+
 <!--
 **2890841438/2890841438** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <samp>
-    <a href="https://dimples.top/pages/da474d/">me</a> .
-    <a href="https://dimples.top/archives/">blog</a> .
-  </samp>
-</p>
 
 
