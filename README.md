@@ -1,9 +1,11 @@
 ##  Here,  I'm DimplesY 👋
 
+
+
 ## 🚀 Code language And Toolkits
 
 ### Code Languge
-<p style="display:flex; gap: 10px">
+<p style="display:flex; gap: 20px">
   <img src="./assets/js.svg" width="50" height="50" />
   <img src="./assets/ts.svg" width="50" height="50" />
   <img src="./assets/java.svg" width="50" height="50" />
@@ -16,7 +18,7 @@
 
 
 ### Framework Or Toolkits
-<p style="display:flex; gap: 10px">
+<p style="display:flex; gap: 20px">
   <img src="./assets/nodejs.svg" width="50" height="50" />
   <img src="./assets/webpack.svg" width="50" height="50" />
   <img src="./assets/vite.svg" width="50" height="50" />
@@ -28,7 +30,8 @@
   <img src="./assets/tailwind.svg" width="50" height="50">
   <img src="./assets/flutter.svg" width="50" height="50">
 </p>
-<p style="display:flex; gap: 10px">
+
+<p style="display:flex; gap: 20px; margin-top:20px">
   <img src="./assets/spring.svg" width="50" height="50" />
   <img src="./assets/nest.svg" width="50" height="50" />
   <img src="./assets/mysql.svg" width="50" height="50" />
