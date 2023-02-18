@@ -34,10 +34,9 @@
   <img src="https://img.shields.io/badge/-sass-bf608e?style=flat&logo=sass&logoColor=white">
 </div>
 
+<p></p>
 
-<p> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimplesY&layout=compact)](https://github.com/DimplesY)
-</p>
 
 
 
