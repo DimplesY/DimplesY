@@ -1,9 +1,5 @@
 ## Here, I'm DimplesY 👋
 
-## 🚀 Code Language And Toolkits
-
-### Code Languge
-
 <p align="center">
 <h2 height="200px" align="center">DimplesY <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
 <h2 align="center">A passionate frontend developer from China</h3>
