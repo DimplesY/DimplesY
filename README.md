@@ -2,7 +2,7 @@
 
 <p align="center">
   <h2 height="200px" align="center">DimplesY <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
-  <h2 align="center">A passionate frontend developer from China</h3>
+  <h2 align="center">A passionate developer from China</h3>
 </p>
 
 **Web Developer**
@@ -44,13 +44,18 @@
     src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="postgresql"
     src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimplesY&layout=compact)](https://github.com/DimplesY)
+**DevOps**
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 
-
+**Environment**
+<p>
+  <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
 
 
 
