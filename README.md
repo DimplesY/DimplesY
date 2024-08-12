@@ -1,36 +1,48 @@
 ## Here, I'm DimplesY 👋
 
 <p align="center">
-<h2 height="200px" align="center">DimplesY <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
-<h2 align="center">A passionate frontend developer from China</h3>
+  <h2 height="200px" align="center">DimplesY <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
+  <h2 align="center">A passionate frontend developer from China</h3>
 </p>
-<p align="center">
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-Next-black?style=flat&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-00ADD8?style=flat&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/wechat_miniprogram-09b955?style=flat&logo=wechat&logoColor=white">
-  <img src="https://img.shields.io/badge/-spring-6DB33F?style=flat&logo=spring&logoColor=white">
-</div>
-<p></p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
-  <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack">
-  <img src="https://img.shields.io/badge/-Vite-46b882?style=flat&logo=Vite">
-  <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat&logo=eslint">
-  <img src="https://img.shields.io/badge/-Express-%33A2?style=flat&logo=Express">
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=NestJS&logoColor=white">
-  <img src="https://img.shields.io/badge/-sass-bf608e?style=flat&logo=sass&logoColor=white">
-</div>
 
-<p></p>
+**Web Developer**
+
+<p>
+  <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-81A3F9?style=for-the-badge&logo=vite&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="TypeScript"
+    src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Apollo"
+    src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
+  <img alt="GraphQL"
+    src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img alt="Styled Components"
+    src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Rollup"
+    src="https://img.shields.io/badge/-Rollup-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white" />
+  <img alt="Prettier"
+      src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
+  <img alt="TailwindCSS"
+      src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Backend Developer**
+
+<p>
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="mysql"
+    src="https://img.shields.io/badge/-MySQL-405f87?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="postgresql"
+    src="https://img.shields.io/badge/-PostgreSQL-13aa52?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Express"
+    src="https://img.shields.io/badge/-express-13aa52?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimplesY&layout=compact)](https://github.com/DimplesY)
 
