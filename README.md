@@ -48,13 +48,20 @@
 
 **DevOps**
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="github actions"
+    src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="archlinux" src="https://img.shields.io/badge/-archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
 </p>
 
 
 **Environment**
 <p>
   <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" />
+  <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=for-the-badge&logo=neovim&logoColor=ffffff" />
 </p>
 
 
