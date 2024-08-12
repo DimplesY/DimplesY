@@ -27,6 +27,7 @@
     src="https://img.shields.io/badge/-Rollup-EC4A3F?style=for-the-badge&logo=rollup.js&logoColor=white" />
   <img alt="Prettier"
       src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
+  <img alt="eslint" src="https://img.shields.io/badge/-ESlint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
   <img alt="TailwindCSS"
       src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
@@ -34,14 +35,16 @@
 **Backend Developer**
 
 <p>
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="mysql"
-    src="https://img.shields.io/badge/-MySQL-405f87?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="postgresql"
-    src="https://img.shields.io/badge/-PostgreSQL-13aa52?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Express"
     src="https://img.shields.io/badge/-express-13aa52?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="mysql"
+    src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="postgresql"
+    src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimplesY&layout=compact)](https://github.com/DimplesY)
