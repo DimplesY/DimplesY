@@ -30,6 +30,7 @@
   <img alt="eslint" src="https://img.shields.io/badge/-ESlint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
   <img alt="TailwindCSS"
       src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="UnoCSS" src="https://img.shields.io/badge/-unocss-333333?style=for-the-badge&logo=unocss&logoColor=white" />
 </p>
 
 **Backend Developer**
