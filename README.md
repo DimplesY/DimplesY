@@ -12,6 +12,7 @@
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-81A3F9?style=for-the-badge&logo=vite&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
   <img alt="TypeScript"
     src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"  />
