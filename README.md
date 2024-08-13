@@ -38,11 +38,13 @@
 <p>
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="Gin" src="https://img.shields.io/badge/-Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white" />
-  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img alt="django" src="https://img.shields.io/badge/-django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="fastapi" src="https://img.shields.io/badge/-fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="Express"
     src="https://img.shields.io/badge/-express-13aa52?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img alt="mysql"
     src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="postgresql"
