@@ -36,6 +36,8 @@
 
 <p>
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="Gin" src="https://img.shields.io/badge/-Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="Express"
