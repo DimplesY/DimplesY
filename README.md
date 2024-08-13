@@ -14,6 +14,7 @@
   <img alt="next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="TypeScript"
     src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-007ACC?style=for-the-badge&logo=threedotjs&logoColor=white"  />
   <img alt="Apollo"
     src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
   <img alt="GraphQL"
